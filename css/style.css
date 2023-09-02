@@ -97,7 +97,7 @@ height: auto;
 }
 
 .showcase .showcase-overlay{
-    background: rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.5);
     height: 50.7rem;
 
 }
@@ -109,7 +109,6 @@ height: auto;
     left: 0px;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.7);
     z-index: 1;
     display: none;
 }

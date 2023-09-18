@@ -1,4 +1,4 @@
-var example = ['GeoFS Addons', '737 Fuel Addon'];
+var example = ['GeoFS Addons', '737 Fuel Addon', 'DOWNLOAD NOW!'];
 
 textSequence(0);
 function textSequence(i) {
